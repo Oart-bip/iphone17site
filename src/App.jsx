@@ -1,14 +1,14 @@
 import NavBar from "./components/NavBar"
+import Hero from "./components/Hero"
 
 function App() { // primeiro componente
 
 
   return ( // código HTML
-    <nav>
-      <<div>
-        <a></a>
-      </div>
-    </nav>
+   <div>
+    <NavBar> </NavBar>
+    <Hero> </Hero>
+   </div>
   )
 }
 

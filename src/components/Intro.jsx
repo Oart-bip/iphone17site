@@ -20,8 +20,7 @@ function Intro () {
             <h1 className=" text-6xl md:text-8xl font-bold mb-6"> 
                 Iphone 17 PRO
             </h1>
-            <p className="text-2xl md:text-4xl "></p>
-            <p> Titânio. Tão forte. Tão leve. Tão Pro.</p>
+            <p className="text-2xl md:text-4xl mb=4 text=gr text-gradient"> Titânio. Tão forte. Tão leve. Tão Pro.</p>
             <p> Design mais refinado que já criamos. Titânio de grau aeroespacial. Chip A18 Pro. Sistema de câmera Pro revolucionário. </p>
         </div>
 
